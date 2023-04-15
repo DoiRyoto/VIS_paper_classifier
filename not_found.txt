@@ -1,0 +1,187 @@
+VIS Opening + Best Papers
+
+Decision Making and Reasoning
+007_Outcome-Explorer: A Causality Guided Interactive Visual Interface for Interpretable Algorithmic Decision Making
+009_GestureLens: Visual Analysis of Gestures in Presentation Videos
+
+VA and ML
+011_Survey on Visual Analysis of Event Sequence Data
+012_Towards Better Caption Supervision for Object Detection
+013_FeatureEnVi: Visual Analytics for Feature Engineering Using Stepwise Selection and Semi-Automatic Extraction Approaches
+
+Transforming Tabular Data and Grammars
+018_Visualizing the Scripts of Data Wrangling with SOMNUS
+
+Temporal Data
+
+SIGGRAPH Invited Talks
+028_Image Features Influence Reaction Time: A Learned Probabilistic Perceptual Model for Saccade Latency
+029_CLIPasso: Semantically Aware Object Sketching
+030_Joint Neural Phase Retrieval and Compression for Energy- and Computation-efficient Holography on the Edge
+031_Umbrella Meshes: Volumetric Elastic Mechanisms for Freeform Shape Deployment
+032_Sketch2Pose: estimating a 3D character pose from a bitmap sketch
+033_Spelunking the Deep: Guaranteed Queries on General Neural Implicit Surfaces
+
+Visualization Opportunities
+
+VA for ML
+040_GNNLens: A Visual Analytics Approach for Prediction Error Diagnosis of Graph Neural Networks
+045_Diagnosing Ensemble Few-Shot Classifiers
+
+Visualization Design
+046_Towards Systematic Design Considerations for Visualizing Cross-View Data Relationships
+047_Designing with Pictographs: Envision Topics without Sacrificing Understanding
+048_Visualizing Higher-Order 3D Tensors by Multipole Lines
+
+Understanding and Modeling How People Respond to Visualizations
+052_A Survey of Perception-Based Visualization Studies by Task
+
+Short Papers: Visualization Systems and Graph Visualization
+
+Immersive Analytics and Situated Visualization
+067_RagRug: A Toolkit for Situated Analytics
+071_Labeling Out-of-View Objects in Immersive Analytics to Support Situated Visual Searching
+
+Questioning Data and Data Bias
+073_Do you believe your (social media) data? A personal story on location data biases, errors, and plausibility as well as their visualization
+
+(Volume) Rendering
+081_Finding Nano-Ötzi: Cryo-Electron Tomography Visualization Guided by Learned Segmentation
+082_Level Set Restricted Voronoi Decomposition for Large Scale Spatial Statistical Analysis
+083_Watertight Incremental Heightfield Tessellation
+
+CG&amp;A Papers: Visualization in Industry
+084_Surgical Navigation System for Low-Dose-Rate Brachytherapy Based on Mixed Reality
+085_Visualization for Architecture, Engineering, and Construction: Shaping the Future of Our Built World
+086_Visual Parameter Space Analysis for Optimizing the Quality of Industrial Nonwovens
+087_Reflections on Visualization Research Projects in the Manufacturing Industry
+088_Situated Visual Analysis and Live Monitoring for Manufacturing
+089_Stress Visualization for Interface Optimization of a Hybrid Component Using Surface Tensor Spines
+
+DNA/Genome and Molecular Data/Vis
+091_Vivern – A Virtual Environment for Multiscale Visualization and Modeling of DNA Nanostructures
+094_Molecumentary: Adaptable Narrated Documentaries Using Molecular Visualization
+
+Short Papers: Visual Analytics, Decision Support, and Machine Learning
+
+Uncertainty
+108_Fuzzy Spreadsheet: Understanding and Exploring Uncertainties in Tabular Calculations
+
+Dealing with Scale, Space, and Dimension
+112_Local Latent Representation based on Geometric Convolution for Particle Data Feature Exploration
+113_Graphical Enhancements for Effective Exemplar Identification in Contextual Data Visualizations
+114_Effectiveness Error: Measuring and Improving RadViz Visual Effectiveness
+
+Short Papers: Personal Visualization, Theory, Evaluation, and eXtended Reality
+119_Towards Systematic Design Considerations of Organizing Multiple Views
+
+ML for VIS
+123_AI4VIS: Survey on Artificial Intelligence Approaches for Data Visualization
+124_DL4SciVis: A State-of-the-Art Survey on Deep Learning for Scientific Visualization
+125_A Survey on ML4VIS: Applying Machine Learning Advances to Data Visualization
+126_Reinforcement Learning for Load-balanced Parallel Particle Tracing
+
+Interactive Dimensionality (High Dimensional Data)
+134_VERTIGo: A Visual Platform for Querying and Exploring Large Multilayer Networks
+
+Neuro/Brain/Medical Data
+135_MV2Net: Multi-Variate Multi-View Brain Network Comparison over Uncertain Data
+136_NeuroConstruct: 3D Reconstruction and Visualization of Neurites in Optical Microscopy Brain Images
+137_DXplorer: A Unified Visualization Framework for Interactive Dendritic Spine Analysis using 3D morphological Features
+138_A Predictive Visual Analytics System for Studying Neurodegenerative Disease Based on DTI Fiber Tracts
+139_NeuRegenerate: A Framework for Visualizing Neurodegeneration
+140_GUCCI - Guided Cardiac Cohort Investigation of Blood Flow Data
+
+Digital Humanities, e-Commerce, and Engineering
+
+Interpreting Machine Learning
+147_StrategyAtlas: Strategy Analysis for Machine Learning Interpretability
+149_ConceptExplainer: Understanding the Mental Model of Deep Learning Algorithms via Interactive Concept-based Explanations
+
+Graphs and Networks
+155_Visualizing Graph Neural Networks with CorGIE: Corresponding a Graph to Its Embedding
+158_VividGraph: Learning to Extract and Redesign Network Graphs from Visualization Images
+
+Sports Vis
+161_Visualization in Motion: A Research Agenda and Two Evaluations
+
+VR Invited Talks
+165_Breaking Plausibility Without Breaking Presence - Evidence For The Multi-Layer Nature Of Plausibility
+166_Combining Real-World Constraints on User Behavior with Deep Neural Networks for Virtual Reality (VR) Biometrics
+167_Real-Time Gaze Tracking with Event-Driven Eye Segmentation
+168_Mood-Driven Colorization of Virtual Indoor Scenes
+169_Omnidirectional Galvanic Vestibular Stimulation in Virtual Reality
+170_Comparing Direct and Indirect Methods of Audio Quality Evaluation in Virtual Reality Scenes of Varying Complexity
+
+Short Papers: Scientific Visualization, Ensembles, and Accessibility
+176_ASEVis: Visual Exploration of Active System Ensembles to Define Characteristic Measures
+177_Accelerated Probabilistic Marching Cubes by Deep Learning for Time-Varying Scalar Ensembles
+178_Beyond Visuals : Examining the Experiences of Geoscience Professionals With Vision Disabilities in Accessing Data Visualizations
+
+Storytelling
+182_Roslingifier: Semi-Automated Storytelling for Animated Scatterplots
+183_Nanotilus: Generator of Immersive Guided-Tours in Crowded 3D Environments
+
+Reflecting on Academia and our Field
+185_Scientometric Analysis of Interdisciplinary Collaboration and Gender Trends in 30 Years of IEEE VIS Publications
+187_SD^2: Slicing and Dicing Scholarly Data for Interactive Evaluation of Academic Performance
+
+CG&amp;A Papers: Visualization Teaching and Literacy
+191_A Taxonomy-Driven Model for Designing Educational Games in Visualization
+192_Remote Instruction for Data Visualization Design-A Report From the Trenches
+193_A Didactic Framework for Analyzing Learning Activities to Design InfoVis Courses
+194_Through the Looking Glass: Insights Into Visualization Pedagogy Through Sentiment Analysis of Peer Review Text
+195_Visualization Design Sprints for Online and On-Campus Courses
+196_Activity Worksheets for Teaching and Learning Data Visualization
+
+Infrastructure Management
+202_RCMVis: A Visual Analytics System for Route Choice Modeling
+
+Provenance and Guidance
+204_Understanding How In-Visualization Provenance Can Support Trade-off Analysis
+205_Provectories: Embedding-based Analysis of Interaction Provenance Data
+208_GEViTRec: Data Reconnaissance Through Recommendation Using a Domain-Specific Visualization Prevalence Design Space
+
+Text, Language, and Image Data
+209_A Unified Understanding of Deep NLP Models for Text Classification
+210_EBBE-Text: Explaining Neural Networks by Exploring Text Classification Decision Boundaries
+211_LegalVis: Exploring and Inferring Precedent Citations in Legal Documents
+212_DeHumor: Visual Analytics for Decomposing Humor
+214_A Hybrid In Situ Approach for Cost Efficient Image Database Generation
+
+Topology
+216_TopoCluster: A Localized Data Structure for Topology-based Visualization
+218_Topological Simplifications of Hypergraphs
+219_Persistence cycles for visual exploration of persistent homology
+220_Geometry-Aware Planar Embedding of Treelike Structures
+
+CG&amp;A Papers: Visualization Teaching and Literacy (cont.) and Machine Learning for Visualization
+221_What Students Learn With Personal Data Physicalization
+222_DeepGD: A Deep Learning Framework for Graph Drawing Using GNN
+223_Interactive Visualization of Hyperspectral Images based on Neural Networks
+224_STSRNet: Deep Joint Space–Time Super-Resolution for Vector Field Visualization
+225_Visual Clustering Factors in Scatterplots
+226_Cartolabe: A Web-Based Scalable Visualization of Large Document Collections
+
+Comparisons
+227_Geometry-Aware Merge Tree Comparisons for Time-Varying Data with Interleaving Distances
+228_Interpretable Anomaly Detection in Event Sequences via Sequence Matching and Visual Comparison
+229_Comparative Analysis of Merge Trees using Local Tree Edit Distance
+230_Visual Exploration of Relationships and Structure in Low-Dimensional Embeddings
+231_View Composition Algebra for Ad Hoc Comparison
+
+Natural Language Interaction
+233_“Probablement, Wahrscheinlich, Likely?” A Cross-Language Study of How People Verbalize Probabilities in Icon Array Visualizations
+236_Explaining with Examples: Lessons Learned from Crowdsourced Introductory Description of Information Visualizations
+
+Visual Analytics of Health Data
+239_ClinicalPath: a Visualization tool to Improve the Evaluation of Electronic Health Records in Clinical Decision-Making
+240_Visual Assistance in Development and Validation of Bayesian Networks for Clinical Decision Support
+243_A framework for evaluating dashboards in healthcare
+
+Spatial Data
+245_Real-Time Visualization of Large-Scale Geological Models with Nonlinear Feature-Preserving Levels of Detail
+246_CosmoVis: An Interactive Visual Analysis Tool for Exploring Hydrodynamic Cosmological Simulations
+247_Dynamic Mode Decomposition for Large-Scale Coherent Structure Extraction in Shear Flows
+249_EpiMob: Interactive Visual Analytics of Citywide Human Mobility Restrictions for Epidemic Control
+

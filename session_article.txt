@@ -1,0 +1,332 @@
+VIS Opening + Best Papers
+Affective Learning Objectives for Communicative Visualizations
+Multiple Forecast Visualizations (MFVs): Trade-offs in Trust and Performance in Multiple COVID-19 Forecast Visualizations
+Uncertainty-Aware Multidimensional Scaling
+Exploring D3 Implementation Challenges on Stack Overflow
+
+Decision Making and Reasoning
+ErgoExplorer: Interactive Ergonomic Risk Assessment from Video Collections
+TrafficVis: Visualizing Organized Activity and Spatio-Temporal Patterns for Detecting Human Trafficking
+Outcome-Explorer: A Causality Guided Interactive Visual Interface for Interpretable Algorithmic Decision Making
+MedChemLens: An Interactive Visual Tool to Support Direction Selection in Interdisciplinary Experimental Research of Medicinal Chemistry
+GestureLens: Visual Analysis of Gestures in Presentation Videos
+Visual Concept Programming: A Visual Analytics Approach to Injecting Human Intelligence at Scale
+
+VA and ML
+Survey on Visual Analysis of Event Sequence Data
+Towards Better Caption Supervision for Object Detection
+FeatureEnVi: Visual Analytics for Feature Engineering Using Stepwise Selection and Semi-Automatic Extraction Approaches
+A Design Space for Surfacing Content Recommendations in Visual Analytic Platforms
+Diverse Interaction Recommendation for Public Users Exploring Multi-view Visualization using Deep Learning
+Visinity: Visual Spatial Neighborhood Analysis for Multiplexed Tissue Imaging Data
+
+Transforming Tabular Data and Grammars
+Revealing the Semantics of Data Wrangling Scripts With COMANTICS
+Visualizing the Scripts of Data Wrangling with SOMNUS
+Rigel: Transforming Tabular Data By Declarative Mapping
+HiTailor: Interactive Transformation and Visualization for Hierarchical Tabular Data
+Animated Vega-Lite: Unifying Animation with a Grammar of Interactive Graphics
+No Grammar to Rule Them All: A Survey of JSON-style DSLs for Visualization
+
+Temporal Data
+Visualizing the Passage of Time with Video Temporal Pyramids
+Constrained Dynamic Mode Decomposition
+SizePairs: Achieving Stable and Balanced Temporal Treemaps using Hierarchical Size-based Paring
+LargeNetVis: visual exploration of large temporal networks based on community taxonomies
+ASTF: Visual Abstractions of Time-Varying Patterns in Radio Signals
+
+SIGGRAPH Invited Talks
+Image Features Influence Reaction Time: A Learned Probabilistic Perceptual Model for Saccade Latency
+CLIPasso: Semantically Aware Object Sketching
+Joint Neural Phase Retrieval and Compression for Energy- and Computation-efficient Holography on the Edge
+Umbrella Meshes: Volumetric Elastic Mechanisms for Freeform Shape Deployment
+Sketch2Pose: estimating a 3D character pose from a bitmap sketch
+Spelunking the Deep: Guaranteed Queries on General Neural Implicit Surfaces
+
+Visualization Opportunities
+KiriPhys: Exploring New Data Physicalization Opportunities
+Supporting Expressive and Faithful Pictorial Visualization Design with Visual Style Transfer
+Self-Supervised Color-Concept Association via Image Colorization
+Cultivating Visualization Literacy for Children through Curiosity and Play
+Roboviz: A Game-Centered Project for Information Visualization Education
+Relaxed Dot Plots: Faithful Visualization of Samples and Their Distribution
+
+VA for ML
+GNNLens: A Visual Analytics Approach for Prediction Error Diagnosis of Graph Neural Networks
+Visual Analysis of Neural Architecture Spaces for Summarizing Design Principles
+NAS-Navigator: Visual Steering for Explainable One-Shot Deep Neural Network Synthesis
+HetVis: A Visual Analysis Approach for Identifying Heterogeneity in Federated Learning
+DendroMap: Visual Exploration of Large-Scale Image Datasets for Machine Learning with Treemaps
+Diagnosing Ensemble Few-Shot Classifiers
+
+Visualization Design
+Towards Systematic Design Considerations for Visualizing Cross-View Data Relationships
+Designing with Pictographs: Envision Topics without Sacrificing Understanding
+Visualizing Higher-Order 3D Tensors by Multipole Lines
+MetaGlyph: Automatic Generation of Metaphoric Glyph-based Visualization
+Dashboard Design Patterns
+A Framework for Multiclass Contour Visualization
+
+Understanding and Modeling How People Respond to Visualizations
+A Survey of Perception-Based Visualization Studies by Task
+BeauVis: A Validated Scale for Measuring the Aesthetic Pleasure of Visual Representations
+Photosensitive Accessibility for Interactive Data Visualizations
+Unifying Effects of Direct and Relational Associations for Visual Communication
+A Scanner Deeply: Predicting Gaze Heatmaps on Visualizations Using Crowdsourced Eye Movement Data
+Studying Early Decision Making with Progressive Bar Charts
+
+Short Papers: Visualization Systems and Graph Visualization
+Facilitating Conversational Interaction in Natural Language Interfaces for Visualization
+VegaFusion: Automatic Server-Side Scaling for Interactive Vega Visualizations
+Streamlining Visualization Authoring in D3 Through User-Driven Templates
+Plotly-Resampler: Effective Visual Analytics for Large Time Series
+Explaining Website Reliability by Visualizing Hyperlink Connectivity
+Paths through Spatial Networks
+LineCap: Line Charts for Data Visualization Captioning Models
+Intentable: A Mixed-Initiative System for Intent-Based Chart Captioning
+
+Immersive Analytics and Situated Visualization
+Exploring Interactions with Printed Data Visualizations in Augmented Reality
+RagRug: A Toolkit for Situated Analytics
+PuzzleFixer: A Visual Reassembly System for Immersive Fragments Restoration
+Effects of View Layout on Situated Analytics for Multiple Representations in Immersive Visualization
+RoboHapalytics: A Robot Assisted Haptic Controller for Immersive Analytics
+Labeling Out-of-View Objects in Immersive Analytics to Support Situated Visual Searching
+
+Questioning Data and Data Bias
+VACSEN: A Visualization Approach for Noise Awareness in Quantum Computing
+Do you believe your (social media) data? A personal story on location data biases, errors, and plausibility as well as their visualization
+D-BIAS: A Causality-Based Human-in-the-Loop System for Tackling Algorithmic Bias
+A Unified Comparison of User Modeling Techniques for Information Relevance and Exploration Bias
+Seeing What You Believe or Believing What You See? Belief Biases Correlation Estimation
+Data Hunches: Incorporating Personal Knowledge into Visualizations
+
+(Volume) Rendering
+FoVolNet: Fast Volume Rendering using Foveated Deep Neural Networks
+GRay: Ray Casting for Visualization and Interactive Data Exploration of Gaussian Mixture Models
+Quick Clusters: A GPU-Parallel Partitioning for Efficient Path Tracing of Unstructured Volumetric Grids
+error-error-error
+Level Set Restricted Voronoi Decomposition for Large Scale Spatial Statistical Analysis
+Watertight Incremental Heightfield Tessellation
+
+CG&amp;A Papers: Visualization in Industry
+Surgical Navigation System for Low-Dose-Rate Brachytherapy Based on Mixed Reality
+Visualization for Architecture, Engineering, and Construction: Shaping the Future of Our Built World
+Visual Parameter Space Analysis for Optimizing the Quality of Industrial Nonwovens
+Reflections on Visualization Research Projects in the Manufacturing Industry
+Situated Visual Analysis and Live Monitoring for Manufacturing
+Stress Visualization for Interface Optimization of a Hybrid Component Using Surface Tensor Spines
+
+DNA/Genome and Molecular Data/Vis
+Multi-View Design Patterns and Responsive Visualization for Genomics Data
+error-error-error
+GenoREC: A Recommendation System for Interactive Genomics Data Visualization
+sMolBoxes: Dataflow Model for Molecular Dynamics Exploration
+Molecumentary: Adaptable Narrated Documentaries Using Molecular Visualization
+Polyphony: an Interactive Transfer Learning Framework for Single-Cell Data Analysis
+
+Short Papers: Visual Analytics, Decision Support, and Machine Learning
+Visual Auditor: Interactive Visualization for Detection and Summarization of Model Biases
+RMExplorer: A Visual Analytics Approach to Explore the Performance and the Fairness of Disease Risk Models on Population Subgroups
+Visualizing Rule-based Classifiers for Clinical Risk Prognosis
+TimberTrek: Exploring and Curating Sparse Decision Trees with Interactive Visualization
+FairFuse: Interactive Visual Support for Fair Consensus Ranking
+Guided Data Discovery in Interactive Visualizations via Active Search
+Parametric Dimension Reduction by Preserving Local Structure
+Uniform Manifold Approximation with Two-phase Optimization
+
+Uncertainty
+Fiber Uncertainty Visualization for Bivariate Data With Parametric and Nonparametric Noise Models
+Evaluating the Use of Uncertainty Visualisations for Imputations of Data Missing At Random in Scatterplots
+Dispersion vs Disparity: Hiding Variability Can Encourage Stereotyping When Visualizing Social Outcomes
+Communicating Uncertainty in Digital Humanities Visualization Research
+Fuzzy Spreadsheet: Understanding and Exploring Uncertainties in Tabular Calculations
+
+Dealing with Scale, Space, and Dimension
+Multivariate Probabilistic Range Queries for Scalable Interactive 3D Visualization
+Dual Space Coupling Model Guided Overlap-free Scatterplot
+Measuring Effects of Spatial Visualization and Domain on Visualization Task Performance: A Comparative Study
+Local Latent Representation based on Geometric Convolution for Particle Data Feature Exploration
+Graphical Enhancements for Effective Exemplar Identification in Contextual Data Visualizations
+Effectiveness Error: Measuring and Improving RadViz Visual Effectiveness
+
+Short Papers: Personal Visualization, Theory, Evaluation, and eXtended Reality
+LetÅfs Get Personal: Exploring the Design of Personalized Visualizations
+Who benefits from Visualization Adaptations? Towards a better Understanding of the Influence of Visualization Literacy
+VisQuiz: Exploring Feedback Mechanisms to Improve Graphical Perception
+OSCAR: A Semantic-based Data Binning Approach
+Towards Systematic Design Considerations of Organizing Multiple Views
+Toward Systematic Considerations of Missingness in Visual Analytics
+The role of extended reality for planning coronary artery bypass graft surgery
+ARShopping: In-Store Shopping Decision Support Through Augmented Reality and Immersive Visualization
+
+ML for VIS
+AI4VIS: Survey on Artificial Intelligence Approaches for Data Visualization
+DL4SciVis: A State-of-the-Art Survey on Deep Learning for Scientific Visualization
+A Survey on ML4VIS: Applying Machine Learning Advances to Data Visualization
+Reinforcement Learning for Load-balanced Parallel Particle Tracing
+IDLat: An Importance-Driven Latent Generation Method for Scientific Data
+DashBot: Insight-Driven Dashboard Generation Based on Deep Reinforcement Learning
+
+Interactive Dimensionality (High Dimensional Data)
+RankAxis: Towards a Systematic Combination of Projection and Ranking in Multi-Attribute Data Exploration
+PC-Expo: A Metrics-Based Interactive Axes Reordering Method for Parallel Coordinate Displays
+Incorporation of Human Knowledge into Data Embeddings to Improve Pattern Significance and Interpretability
+Interactive Visual Cluster Analysis by Contrastive Dimensionality Reduction
+Predicting User Preferences of Dimensionality Reduction Embedding Quality
+VERTIGo: A Visual Platform for Querying and Exploring Large Multilayer Networks
+
+Neuro/Brain/Medical Data
+MV2Net: Multi-Variate Multi-View Brain Network Comparison over Uncertain Data
+NeuroConstruct: 3D Reconstruction and Visualization of Neurites in Optical Microscopy Brain Images
+DXplorer: A Unified Visualization Framework for Interactive Dendritic Spine Analysis using 3D morphological Features
+A Predictive Visual Analytics System for Studying Neurodegenerative Disease Based on DTI Fiber Tracts
+NeuRegenerate: A Framework for Visualizing Neurodegeneration
+GUCCI - Guided Cardiac Cohort Investigation of Blood Flow Data
+
+Digital Humanities, e-Commerce, and Engineering
+CohortVA: A Visual Analytic System for Interactive Exploration of Cohorts based on Historical Data
+PromotionLens: Inspecting Promotion Strategies of Online E-commerce via Visual Analytics
+Interactive Visual Analysis of Structure-borne Noise Data
+Traveler: Navigating Task Parallel Traces for Performance Analysis
+Visual Analysis and Detection of Contrails in Aircraft Engine Simulations
+DPVisCreator: Incorporating Pattern Constraints to Privacy-preserving Visualizations via Differential Privacy
+
+Interpreting Machine Learning
+StrategyAtlas: Strategy Analysis for Machine Learning Interpretability
+VDL-Surrogate: A View-Dependent Latent-based Model for Parameter Space Exploration of Ensemble Simulations
+ConceptExplainer: Understanding the Mental Model of Deep Learning Algorithms via Interactive Concept-based Explanations
+SliceTeller : A Data Slice-Driven Approach for Machine Learning Model Validation
+Calibrate: Interactive Analysis of Probabilistic Model Output
+Visualizing Ensemble Predictions of Music Mood
+
+Graphs and Networks
+MosaicSets: Embedding Set Systems into Grid Graphs
+Taurus: Towards A Unified Force Representation and Universal Solver for Graph Layout
+Visualizing Graph Neural Networks with CorGIE: Corresponding a Graph to Its Embedding
+Comparative Evaluation of Bipartite, Node-Link, and Matrix-Based Network Representations
+Understanding Barriers to Network Exploration with Visualization: A Report from the Trenches
+VividGraph: Learning to Extract and Redesign Network Graphs from Visualization Images
+
+Sports Vis
+Sporthesia: Augmenting Sports Videos Using Natural Language
+OBTracker: Visual Analytics of Off-ball Movements in Basketball
+Visualization in Motion: A Research Agenda and Two Evaluations
+RASIPAM: Interactive Pattern Mining of Multivariate Event Sequences in Racket Sports
+Tac-Trainer: A Visual Analytics System for IoT-based Racket Sports Training
+The Quest for Omnioculars: Embedded Visualization for Augmenting Basketball Game Viewing Experiences
+
+VR Invited Talks
+Breaking Plausibility Without Breaking Presence - Evidence For The Multi-Layer Nature Of Plausibility
+Combining Real-World Constraints on User Behavior with Deep Neural Networks for Virtual Reality (VR) Biometrics
+Real-Time Gaze Tracking with Event-Driven Eye Segmentation
+Mood-Driven Colorization of Virtual Indoor Scenes
+Omnidirectional Galvanic Vestibular Stimulation in Virtual Reality
+Comparing Direct and Indirect Methods of Audio Quality Evaluation in Virtual Reality Scenes of Varying Complexity
+
+Short Papers: Scientific Visualization, Ensembles, and Accessibility
+Color Coding of Large Value Ranges Applied to Meteorological Data
+Volume Puzzle: visual analysis of segmented volume data with multivariate attributes
+Droplet-Local Line Integration for Multiphase Flow
+Efficient Interpolation-based Pathline Tracing with B-spline Curves in Particle Dataset
+Visualizing Confidence Intervals for Critical Point Probabilities in 2D Scalar Field Ensembles
+ASEVis: Visual Exploration of Active System Ensembles to Define Characteristic Measures
+Accelerated Probabilistic Marching Cubes by Deep Learning for Time-Varying Scalar Ensembles
+Beyond Visuals : Examining the Experiences of Geoscience Professionals With Vision Disabilities in Accessing Data Visualizations
+
+Storytelling
+Breaking the Fourth Wall of Data Stories through Interaction
+Erato: Cooperative Data Story Editing via Fact Interpolation
+Geo-Storylines: Integrating Maps into Storyline Visualizations
+Roslingifier: Semi-Automated Storytelling for Animated Scatterplots
+Nanotilus: Generator of Immersive Guided-Tours in Crowded 3D Environments
+How Do Viewers Synthesize Conflicting Information from Data Visualizations?
+
+Reflecting on Academia and our Field
+Scientometric Analysis of Interdisciplinary Collaboration and Gender Trends in 30 Years of IEEE VIS Publications
+Thirty-Two Years of IEEE VIS: Authors, Fields of Study and Citations
+SD^2: Slicing and Dicing Scholarly Data for Interactive Evaluation of Academic Performance
+In Defence of Visual Analytics Systems: Replies to Critics
+Visualization Design Practices in a Crisis: Behind the Scenes with COVID-19 Dashboard Creators
+Understanding how Designers Find and Use Data Visualization Examples
+
+CG&amp;A Papers: Visualization Teaching and Literacy
+A Taxonomy-Driven Model for Designing Educational Games in Visualization
+Remote Instruction for Data Visualization Design-A Report From the Trenches
+A Didactic Framework for Analyzing Learning Activities to Design InfoVis Courses
+Through the Looking Glass: Insights Into Visualization Pedagogy Through Sentiment Analysis of Peer Review Text
+Visualization Design Sprints for Online and On-Campus Courses
+Activity Worksheets for Teaching and Learning Data Visualization
+
+Infrastructure Management
+The State of the Art in BGP Visualization Tools: A Mapping of Visualization Techniques to Cyberattack Types
+RISeer: Inspecting the Status and Dynamics of Regional Industrial Structure via Visual Analytics
+PMU Tracker: A Visualization Platform for Epicentric Event Propagation Analysis in the Power Grid
+ECoalVis: Visual Analysis of Control Strategies in Coal-fired Power Plants
+A Visual Analytics System for Improving Attention-based Traffic Forecasting Models
+RCMVis: A Visual Analytics System for Route Choice Modeling
+
+Provenance and Guidance
+error-error-error
+Understanding How In-Visualization Provenance Can Support Trade-off Analysis
+Provectories: Embedding-based Analysis of Interaction Provenance Data
+Lotse: A Practical Framework for Guidance in Visual Analytics
+Medley: Intent-based Recommendations to Support Dashboard Composition
+GEViTRec: Data Reconnaissance Through Recommendation Using a Domain-Specific Visualization Prevalence Design Space
+
+Text, Language, and Image Data
+A Unified Understanding of Deep NLP Models for Text Classification
+EBBE-Text: Explaining Neural Networks by Exploring Text Classification Decision Boundaries
+LegalVis: Exploring and Inferring Precedent Citations in Legal Documents
+DeHumor: Visual Analytics for Decomposing Humor
+Interactive and visual prompt engineering for ad-hoc task adaptation with large language models
+A Hybrid In Situ Approach for Cost Efficient Image Database Generation
+
+Topology
+Temporal Merge Tree Maps: A Topology-Based Static Visualization for Temporal Scalar Data
+TopoCluster: A Localized Data Structure for Topology-based Visualization
+Computing a Stable Distance on Merge Trees
+Topological Simplifications of Hypergraphs
+Persistence cycles for visual exploration of persistent homology
+Geometry-Aware Planar Embedding of Treelike Structures
+
+CG&amp;A Papers: Visualization Teaching and Literacy (cont.) and Machine Learning for Visualization
+What Students Learn With Personal Data Physicalization
+DeepGD: A Deep Learning Framework for Graph Drawing Using GNN
+Interactive Visualization of Hyperspectral Images based on Neural Networks
+error-error-error
+Visual Clustering Factors in Scatterplots
+Cartolabe: A Web-Based Scalable Visualization of Large Document Collections
+
+Comparisons
+Geometry-Aware Merge Tree Comparisons for Time-Varying Data with Interleaving Distances
+Interpretable Anomaly Detection in Event Sequences via Sequence Matching and Visual Comparison
+Comparative Analysis of Merge Trees using Local Tree Edit Distance
+Visual Exploration of Relationships and Structure in Low-Dimensional Embeddings
+View Composition Algebra for Ad Hoc Comparison
+Visual Comparison of Language Model Adaptation
+
+Natural Language Interaction
+ÅgProbablement, Wahrscheinlich, Likely?Åh A Cross-Language Study of How People Verbalize Probabilities in Icon Array Visualizations
+FlowNL: Asking the Flow Data in Natural Languages
+Comparison Conundrum and the Chamber of Visualizations: An Exploration of How Language Influences Visual Design
+Explaining with Examples: Lessons Learned from Crowdsourced Introductory Description of Information Visualizations
+Towards Natural Language-Based Visualization Authoring
+Striking a Balance: Reader Takeaways and Preferences when Integrating Text and Charts
+
+Visual Analytics of Health Data
+ClinicalPath: a Visualization tool to Improve the Evaluation of Electronic Health Records in Clinical Decision-Making
+Visual Assistance in Development and Validation of Bayesian Networks for Clinical Decision Support
+ChartWalk: Navigating large collections of text notes in electronic health records for clinical chart review
+Development and Evaluation of Two Approaches of Visual Sensitivity Analysis to Support Epidemiological Modeling
+A framework for evaluating dashboards in healthcare
+Extending the Nested Model for User-Centric XAI: A Design Study on GNN-based Drug Repurposing
+
+Spatial Data
+Real-Time Visualization of Large-Scale Geological Models with Nonlinear Feature-Preserving Levels of Detail
+CosmoVis: An Interactive Visual Analysis Tool for Exploring Hydrodynamic Cosmological Simulations
+Dynamic Mode Decomposition for Large-Scale Coherent Structure Extraction in Shear Flows
+A Comparison of Spatiotemporal Visualizations for 3D Urban Analytics
+EpiMob: Interactive Visual Analytics of Citywide Human Mobility Restrictions for Epidemic Control
+On-Tube Attribute Visualization for Multivariate Trajectory Data
+
